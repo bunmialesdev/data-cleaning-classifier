@@ -114,3 +114,6 @@ data-cleaning-classifier/
 ├── README.md            # This file
 └── requirements.txt     # Dependencies
 ```
+
+## WIP
+Support for LLM model through API Key, such as Claude/OpenAI/Ollama
