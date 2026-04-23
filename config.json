@@ -1,0 +1,5 @@
+{
+    "positive": ["good", "great", "excellent", "love", "happy", "wonderful", "amazing", "fantastic", "awesome", "best", "brilliant", "beautiful", "perfect", "enjoy", "pleased", "superb", "outstanding", "delightful"],
+    "negative": ["bad", "terrible", "awful", "hate", "sad", "horrible", "worst", "poor", "ugly", "disgusting", "annoying", "disappointing", "dreadful", "miserable", "angry", "fail", "broken", "useless"],
+    "neutral": ["okay", "fine", "average", "normal", "moderate", "standard", "acceptable", "adequate", "fair", "reasonable", "ordinary", "typical", "regular"]
+}
